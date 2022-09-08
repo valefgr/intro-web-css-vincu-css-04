@@ -14,5 +14,4 @@ En este lab vincularas la hoja de estilo que creaste al documento html
 ## Instrucciones
 Bifurca (fork) y clona (clone) este lab en tu entorno local. Navega a su directorio en la terminal, luego ejecuta el comando `code .` para abrir sus archivos en Visual Studio Code. 
 
-1. Entre el elemento `head` escribe la etiqueta `<link>` 
-2. Dentro del atributo hfre="" inserta el nombre de la hoja de estilo que se había creado
+1. Vincula tu archivo index.html y style.css
